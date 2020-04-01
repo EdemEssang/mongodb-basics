@@ -1,5 +1,6 @@
 # mongodb-basics
-A Readme  for Startng Mongodb basics
+A Screenshots of  mongodb-basics task.
+
 
 
 ![A screenshot showing both mongo and mongod .exe files](https://res.cloudinary.com/edemoski/image/upload/v1585754195/njwxj2hnyobhaynuykie.jpg)
